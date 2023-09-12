@@ -16,5 +16,13 @@
   },
   "dependencies": {
     "bootstrap": "^5.2.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wzrdcrtv/testproject.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wzrdcrtv/testproject/issues"
+  },
+  "homepage": "https://github.com/wzrdcrtv/testproject#readme"
 }
